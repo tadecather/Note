@@ -14,7 +14,7 @@
 
 例如使用 foxmail 发送163 邮箱时，需要如下配置。
 
-![image-20200702171710660](https://github.com/tadecather/Note/blob/master/20200713_%E9%82%AE%E4%BB%B6%E5%8F%91%E9%80%81/image/foxmail%E9%82%AE%E4%BB%B6%E5%8F%91%E9%80%81.png)
+![image-20200702171710660](.\image\foxmail邮件发送.png)
 
 如上图所示，我们需要四个关键要素：**账号、密码、发件服务器地址、发件服务器端口**。
 
